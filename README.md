@@ -5,7 +5,7 @@
 ![Go](https://img.shields.io/badge/Go-1.26%2B-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-4D4D4D?style=flat-square)
 
-<img width="1342" height="761" alt="GoSecScan" src="docs/screenshot.png" />
+<img width="1303" height="729" alt="{BF22A00D-D272-4B4D-A4C4-269CE71955A0}" src="https://github.com/user-attachments/assets/2aefa276-849c-46ac-8496-213d0317d8ca" />
 
 ## Особенности
 
