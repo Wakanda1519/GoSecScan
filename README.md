@@ -1,6 +1,6 @@
 # 🛡️ GoSecScan
 
-**Консольный сканер веб-уязвимостей на Go: перебирает эндпоинты по словарю, проверяет Reflected XSS и SQL-инъекции, а при первом запуске сам создаёт базу сигнатур `config.json`**
+**Консольный сканер веб-уязвимостей: перебирает эндпоинты по словарю, проверяет Reflected XSS и SQL-инъекции, а при первом запуске сам создаёт базу сигнатур `config.json`**
 
 ![Go](https://img.shields.io/badge/Go-1.26%2B-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-4D4D4D?style=flat-square)
